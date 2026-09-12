@@ -1,4 +1,5 @@
-🎓 Student Academic Assistant: A Conversational AI Approach Using GPT-2 & BERT
+# 🎓 Student Academic Assistant: A Conversational AI Approach Using GPT-2 & BERT
+
 A conversational AI project comparing a generative model (GPT-2) and a classification model (BERT) for building a chatbot that answers university course-related questions. Fine-tuned on a custom question-answer dataset built from the University of Illinois Course Catalog.
 
 ## Overview
@@ -20,7 +21,7 @@ The project covers:
 * Credit hours
 * Subject categories
 
-Source: [University of Illinois Course Catalog Dataset](https://discovery.cs.illinois.edu/dataset/course-catalog/)
+Source: https://discovery.cs.illinois.edu/dataset/course-catalog/
 
 ## Results
 
